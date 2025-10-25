@@ -1,4 +1,4 @@
-#Hi, I'm Brea!
+***Hi, I'm Brea!***
 
 I'm a **software engineering** student at TRU
 
